@@ -1,0 +1,9 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folders
+auth/node_modules
+
+# ignore dist and cache folders
+auth/dist
+auth/.cache
